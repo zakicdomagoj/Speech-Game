@@ -1,0 +1,1 @@
+This project is from Brad Traversy Udemy Course 20 Web Projects with Vanilla JavaScript.
